@@ -1,0 +1,46 @@
+{
+  "student": [
+    {
+      "id": 0,
+      "name": "mohammad",
+      "age": 47,
+      "class": "ENG"
+    },
+    {
+      "id": 1,
+      "name": "khadija asif",
+      "age": 44,
+      "class": "ENG"
+    },
+    {
+      "id": 3,
+      "name": "Ajai",
+      "age": 47,
+      "class": "ENG"
+    },
+    {
+      "id": 4,
+      "name": "muzammil",
+      "age": 7,
+      "class": "HUM"
+    },
+    {
+      "id": 2,
+      "name": "Hassan",
+      "age": 41,
+      "class": "ENG"
+    },
+    {
+      "name": "Hussain",
+      "id": "5",
+      "class": "HUM",
+      "age": "10"
+    },
+    {
+      "name": "Hamid",
+      "id": "6",
+      "class": "HUM",
+      "age": "10"
+    }
+  ]
+}
